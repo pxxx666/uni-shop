@@ -98,7 +98,7 @@
 	.search-box{
 		position: sticky;
 		top: 0;
-		z-index: 20;
+		z-index: 90;
 	}
 	swiper{
 		height: 330rpx;
